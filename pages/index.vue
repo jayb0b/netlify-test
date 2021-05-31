@@ -1,7 +1,7 @@
 <template>
 <article>
-  <section class = "flex  justify-center">
-  <img class ="p-4 mx-auto" style = "max-width:100%;" src = "/img/gnostic-logo.svg" alt="Gnostic Logic"/>
+  <section class = "flex justify-center">
+  <img class ="mx-auto" style = "max-width:100%;" src = "/img/gnostic-logo.svg" alt="Gnostic Logic"/>
   </section>
 </article>
 </template>
