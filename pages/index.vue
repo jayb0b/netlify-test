@@ -1,6 +1,8 @@
 <template>
 <article>
-GNOSTIC LOGIC
+  <section class = "flex  justify-center">
+  <img class ="p-4 max-w-3xl mx-auto" src = "/img/gnostic-logo.svg" alt="Gnostic Logic"/>
+  </section>
 </article>
 </template>
 
@@ -15,6 +17,7 @@ export default {
   },
   head() {
     return {
+      title: "GNOSTIC [LOGIC]",
       script: [{ src: 'https://identity.netlify.com/v1/netlify-identity-widget.js' }],
     };
   },
@@ -22,4 +25,5 @@ export default {
 </script>
 
 <style>
+
 </style>
