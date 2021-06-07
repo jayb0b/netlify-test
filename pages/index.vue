@@ -1,7 +1,7 @@
 <template>
   <article
     class="p-10 font-sans"
-    style="max-width:1000px;margin: 0px auto; background-color:#f8f3ef"
+    style="max-width:1000px;margin: 0px auto;"
   >
     <div class="flex justify-center">
       <div style="width:500px;">
@@ -58,6 +58,6 @@ export default {
 
 <style>
 body {
-  color: #3b3d3f;
+
 }
 </style>
