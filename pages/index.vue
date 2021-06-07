@@ -1,11 +1,16 @@
 <template>
-  <article class="p-10 font-sans" style="max-width:1000px;margin: 0px auto;">
-    <div class="flex justify-center"    style="max-width:500px;"
-     >
-      <img
-        src="/img/gnostic-logo.svg" style="height:100%;width:100%;"   alt="GNOSTIC LOGIC"
-     
-      />
+  <article
+    class="p-10 font-sans"
+    style="max-width:1000px;margin: 0px auto; background-color:#f8f3ef"
+  >
+    <div class="flex justify-center">
+      <div style="width:500px;">
+        <img
+          src="/img/gnostic-logo-mob.svg"
+          style="height:100%;width:100%;"
+          alt="GNOSTIC LOGIC"
+        />
+      </div>
     </div>
     <h1 class="font-header text-5xl py-10 text-center">
       Web development in the <span class="text-primary"> {heart}</span> of
