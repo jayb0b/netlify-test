@@ -12,12 +12,12 @@
         />
       </div>
     </div>
-    <h1 class="font-header text-5xl py-10 text-center">
+    <h1 class="font-header text-6xl py-10 text-center">
       Web development in the <span class="text-primary"> {heart}</span> of
       Scotland
     </h1>
     <div class = "pb-10">
-    <h2 class="font-header text-3xl">Bespoke solutions</h2>
+    <h2 class="font-header text-4xl">Bespoke solutions</h2>
     <p>
       We believe there isn't a 'one size fits all' approach to web development.
       With 15+ years experience in many technologies we will work hard to find
