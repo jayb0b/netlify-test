@@ -34,7 +34,7 @@
       <li>Respect privacy</li>
   
     </ul>
-    <button>More</button>
+    <button class = "btn">More</button>
     </div>
   </article>
 </template>
