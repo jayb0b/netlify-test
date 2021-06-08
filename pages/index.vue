@@ -32,7 +32,9 @@
       <li>Minimise environmental impact</li>
       <li>Accessible to all</li>
       <li>Respect privacy</li>
+  
     </ul>
+    <button>More</button>
     </div>
   </article>
 </template>
