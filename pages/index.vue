@@ -16,6 +16,7 @@
       Web development in the <span class="text-primary"> {heart}</span> of
       Scotland
     </h1>
+    <div class = "pb-10">
     <h2 class="font-header text-3xl">Bespoke solutions</h2>
     <p>
       We believe there isn't a 'one size fits all' approach to web development.
@@ -24,11 +25,13 @@
       to design your site: the site will be crafted to meet your needs not
       someone else's.
     </p>
+    </div>
+    <div class = "pb-10">
     <h2 class="font-header text-3xl">Ethical development</h2>
     <p>
       We favour carbon neutral options for deploying websites and believe that a secure solution that respects the visitor's privacy benefits both parties.
     </p>
-
+    </div>
   </article>
 </template>
 
