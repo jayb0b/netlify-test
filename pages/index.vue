@@ -28,9 +28,11 @@
     </div>
     <div class = "pb-10">
     <h2 class="font-header text-3xl">Ethical development</h2>
-    <p>
-      We favour carbon neutral options for deploying websites and believe that a secure solution that respects the visitor's privacy benefits both parties.
-    </p>
+    <ul>
+      <li>Minimise environmental impact</li>
+      <li>Accessible to all</li>
+      <li>Respect privacy</li>
+    </ul>
     </div>
   </article>
 </template>
