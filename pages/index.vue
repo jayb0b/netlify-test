@@ -24,6 +24,11 @@
       to design your site: the site will be crafted to meet your needs not
       someone else's.
     </p>
+    <h2 class="font-header text-3xl">Ethical development</h2>
+    <p>
+      We favour carbon neutral options for deploying websites and believe that a secure solution that respects the visitor's privacy benefits both parties.
+    </p>
+
   </article>
 </template>
 
