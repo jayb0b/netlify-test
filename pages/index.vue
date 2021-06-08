@@ -27,7 +27,7 @@
     </p>
     </div>
     <div class = "pb-10">
-    <h2 class="font-header text-3xl">Ethical development</h2>
+    <h2 class="font-header text-4xl">Ethical development</h2>
     <ul>
       <li>Minimise environmental impact</li>
       <li>Accessible to all</li>
