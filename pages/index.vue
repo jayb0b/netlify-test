@@ -1,42 +1,54 @@
 <template>
-  <article
-    class="p-10 font-sans"
-    style="max-width:1000px;margin: 0px auto;"
-  >
-    <div class="flex justify-center">
-      <div style="width:500px;">
+  <main class="font-sans container mx-auto">
+    <div class = "pb-64" style = "border-left: 75px solid #E7EEED;border-right: 75px solid #E7EEED;background-color:#F4F7F0;background-image: url(/img/texture.svg);">
+    <header class="flex justify-center" style = "" >
+      <div style="width:500px;" >
         <img
           src="/img/gnostic-logo-mob.svg"
           style="height:100%;width:100%;"
           alt="GNOSTIC LOGIC"
         />
       </div>
-    </div>
+    </header>
     <h1 class="font-header text-6xl py-10 text-center">
       Web development in the <span class="text-primary"> {heart}</span> of
       Scotland
     </h1>
-    <div class = "pb-10">
-    <h2 class="font-header text-4xl">Bespoke solutions</h2>
-    <p>
-      We believe there isn't a 'one size fits all' approach to web development.
-      With 15+ years experience in many technologies we will work hard to find
-      the exact solution for your business. We won't use off-the-shelf templates
-      to design your site: the site will be crafted to meet your needs not
-      someone else's.
-    </p>
     </div>
-    <div class = "pb-10">
-    <h2 class="font-header text-4xl">Ethical development</h2>
-    <ul>
-      <li>Minimise environmental impact</li>
-      <li>Accessible to all</li>
-      <li>Respect privacy</li>
-  
-    </ul>
-    <button class = "btn">More</button>
+    <div class="-mt-64 grid grid-cols-3 gap-10" style = " background-image: linear-gradient(to bottom, rgba(244,247,240,0), rgba(244,247,240,1)); ">
+      <div class="p-10 rounded-md" style = "background-color:#2c7169;color:white;">
+        <h2 class="font-header text-4xl pb-2">Bespoke solutions</h2>
+        <p class = "text-white">
+          We believe there isn't a 'one size fits all' approach to web
+          development. With 15+ years experience in many technologies we will
+          work hard to find the exact solution for your business. We won't use
+          off-the-shelf templates to design your site: the site will be crafted
+          to meet your needs not someone else's.
+        </p>
+      </div>
+            <div class="p-10 rounded-md" style = "background-color:#2c7169;color:white;">
+        <h2 class="font-header text-4xl pb-2">Bespoke solutions</h2>
+        <p class = "text-white">
+          We believe there isn't a 'one size fits all' approach to web
+          development. With 15+ years experience in many technologies we will
+          work hard to find the exact solution for your business. We won't use
+          off-the-shelf templates to design your site: the site will be crafted
+          to meet your needs not someone else's.
+        </p>
+      </div>
+            <div class="p-10 rounded-md" style = "background-color:#2c7169;color:white;">
+        <h2 class="font-header text-4xl pb-2">Bespoke solutions</h2>
+        <p class = "text-white">
+        <ul>
+          <li>Minimise environmental impact</li>
+          <li>Accessible to all</li>
+          <li>Respect privacy</li>
+        </ul>
+        <button class="btn">More</button>
+        </p>
+      </div>
     </div>
-  </article>
+  </main>
 </template>
 
 <script>
@@ -70,6 +82,5 @@ export default {
 
 <style>
 body {
-
 }
 </style>

@@ -2,7 +2,8 @@ module.exports = {
   theme: {
     textColor: theme => theme('colors'),
     textColor: {
-      'primary': '#8b5e3c',
+      'primary': '#368980',
+      
     },
     fontFamily: {
       sans: ["Roboto", "Sans"],
