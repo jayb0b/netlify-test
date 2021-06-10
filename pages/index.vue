@@ -1,6 +1,6 @@
 <template>
   <main class="font-sans container mx-auto">
-    <div class = "pb-64" style = "border-left: 75px solid #E7EEED;border-right: 75px solid #E7EEED;background-color:#F4F7F0;background-image: url(/img/texture.svg);">
+    <section class = "indented pb-64" style = "background-image: url(/img/texture.svg);">
     <header class="flex justify-center" style = "" >
       <div style="width:500px;" >
         <img
@@ -14,9 +14,9 @@
       Web development in the <span class="text-primary"> {heart}</span> of
       Scotland
     </h1>
-    </div>
-    <div class="-mt-64 grid grid-cols-3 gap-10" style = " background-image: linear-gradient(to bottom, rgba(244,247,240,0), rgba(244,247,240,1)); ">
-      <div class="p-10 rounded-md" style = "background-color:#2c7169;color:white;">
+    </section>
+    <div class="-mt-64 md:grid grid-cols-3 gap-10" style = " background-image: linear-gradient(to bottom, rgba(244,247,240,0), rgba(244,247,240,1)); ">
+      <div class="p-10 rounded-md mb-10" style = "background-color:#2c7169;color:white;">
         <h2 class="font-header text-4xl pb-2">Bespoke solutions</h2>
         <p class = "text-white">
           We believe there isn't a 'one size fits all' approach to web
@@ -26,7 +26,7 @@
           to meet your needs not someone else's.
         </p>
       </div>
-            <div class="p-10 rounded-md" style = "background-color:#2c7169;color:white;">
+            <div class="p-10 rounded-md mb-10" style = "background-color:#2c7169;color:white;">
         <h2 class="font-header text-4xl pb-2">Bespoke solutions</h2>
         <p class = "text-white">
           We believe there isn't a 'one size fits all' approach to web
@@ -36,7 +36,7 @@
           to meet your needs not someone else's.
         </p>
       </div>
-            <div class="p-10 rounded-md" style = "background-color:#2c7169;color:white;">
+            <div class="p-10 rounded-md mb-10" style = "background-color:#2c7169;color:white;">
         <h2 class="font-header text-4xl pb-2">Bespoke solutions</h2>
         <p class = "text-white">
         <ul>
