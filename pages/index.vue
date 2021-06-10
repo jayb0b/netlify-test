@@ -1,5 +1,6 @@
 <template>
   <main class="font-sans container mx-auto">
+    <article class = "px-10 md:px-0">
     <section class = "indented pb-64" style = "background-image: url(/img/texture.svg);">
     <header class="flex justify-center" style = "" >
       <div style="width:500px;" >
@@ -48,6 +49,7 @@
         </p>
       </div>
     </div>
+    </article>
   </main>
 </template>
 
