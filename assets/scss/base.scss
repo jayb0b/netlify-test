@@ -4,7 +4,7 @@ html {
  
 }
 body{
-    font-size: 18px;
+    font-size: 1.125rem;
 }
 article{
     background-color:#F4F7F0;
@@ -13,6 +13,6 @@ article{
   
 
     @media screen and (min-width: 768px) {
-        border-left: 75px solid #E7EEED;border-right: 75px solid #E7EEED;
+        border-left: 50px solid #E7EEED;border-right: 50px solid #E7EEED;
     }
 }
