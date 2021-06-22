@@ -22,8 +22,10 @@
     </div>
         </div>
     <article class="font-sans container mx-auto ">
+
+
   <div class="md:grid grid-cols-3 gap-10">
-            <div class="p-10 my-10 rounded-md  h-full" style = "background-color:#008080;color:white;">
+            <div class="p-10 my-10 rounded-none md:rounded-md rounded-none  h-full" style = "background-color:#008080;color:white;">
         <h2 class="font-serif text-4xl font-bold pb-2">Custom solutions</h2>
          <p class = "text-white">
           We believe there isn't a 'one size fits all' approach to web
@@ -32,7 +34,7 @@
           to meet your needs not someone else's.
         </p>
       </div>
-                  <div class="p-10 my-10 rounded-md  h-full" style = "background-color:#008080;color:white;">
+                  <div class="p-10 my-10  rounded-none md:rounded-md rounded-none  h-full" style = "background-color:#008080;color:white;">
         <h2 class="font-serif text-4xl font-bold pb-2">Ethical development</h2>
         <p class = "text-white">
         <ul>
@@ -40,18 +42,14 @@
           <li>Accessible to all</li>
           <li>Respect privacy</li>
         </ul>
-        <button class="btn">Find out more</button>
+        
         </p>
       </div>
-                  <div class="p-10 my-10 rounded-md  h-full" style = "background-color:#008080;color:white;">
-        <h2 class="font-serif text-4xl font-bold pb-2">Ethical development</h2>
+                  <div class="p-10 my-10 rounded-none md:rounded-md rounded-none h-full" style = "background-color:#008080;color:white;">
+        <h2 class="font-serif text-4xl font-bold pb-2">Cost effective simplicity</h2>
         <p class = "text-white">
-        <ul>
-          <li>Minimise environmental impact</li>
-          <li>Accessible to all</li>
-          <li>Respect privacy</li>
-        </ul>
-        <button class="btn">Find out more</button>
+        We produce JAMStack websites: static websites powered by powerful serverless APIs. This means smaller bills and less ongoing maintenance.
+       
         </p>
       </div>
   </div>
