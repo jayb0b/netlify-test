@@ -16,7 +16,7 @@ export default {
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
       { rel: "preconnect", href: "https://fonts.gstatic.com" },
-      { rel: 'stylesheet', href: "https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto:wght@100;300;400;700;900&display=swap"}
+      { rel: 'stylesheet', href: "https://fonts.googleapis.com/css2?family=Aleo:wght@400;700&family=Lato:wght@100;400;700&display=swap"}
     ]
   },
 

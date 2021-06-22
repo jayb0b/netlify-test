@@ -6,8 +6,8 @@ module.exports = {
       
     },
     fontFamily: {
-      sans: ["Roboto", "Sans"],
-      header: ["Bebas Neue", "Sans"]
+      sans: ["Lato", "sans-serif"],
+      serif: ["Aleo", "serif"]
     }
   },
 
